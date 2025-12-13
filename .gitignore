@@ -1,0 +1,13 @@
+# Ignorar pasta com as aulas do curso
+Aulas
+
+# Ignorar Python virtual environment
+ct213
+.tool-versions
+
+# Ignorar cache do Python
+**/__pycache__
+
+# Ignorar Python environment do Lab 12
+Lab12/lab12
+Lab12/.tool-versions
